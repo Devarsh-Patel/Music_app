@@ -11,4 +11,4 @@ Architecture MVVM
    - API -> imterface function to set up url Gson converter using Retrofit2
    - ItunesConstant.kt -> 
 - view
-- viewmodel
+- viewmodel d d
